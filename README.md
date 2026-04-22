@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 [![Codewars](https://img.shields.io/badge/Codewars-MityaSS-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/MityaSS)
 [![Codeforces](https://img.shields.io/badge/Codeforces-torchnnnn-1F8DD6?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/torchnnnn)
 [![Kaggle](https://img.shields.io/badge/Kaggle-dmitrikretov-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dmitrikretov)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gangmit-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/gangmit/)
