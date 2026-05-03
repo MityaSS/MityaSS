@@ -1,5 +1,4 @@
 ## Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=MityaSS&color=green&style=flat" alt="Profile views" />
 <!--
 **MityaSS/MityaSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +17,4 @@ Here are some ideas to get you started:
 [![Codeforces](https://img.shields.io/badge/Codeforces-torchnnnn-1F8DD6?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/torchnnnn)
 [![Kaggle](https://img.shields.io/badge/Kaggle-dmitrikretov-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dmitrikretov)
 [![LeetCode](https://img.shields.io/badge/LeetCode-gangmit-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/gangmit/)
+<img src="https://komarev.com/ghpvc/?username=MityaSS&color=green&style=flat" alt="Profile views" />
