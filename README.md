@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://github.com/MityaSS/ghpvc/?username=your-github-username&color=green)
+<img src="https://komarev.com/ghpvc/?username=MityaSS&color=green&style=flat" alt="Profile views" />
 <!--
 **MityaSS/MityaSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
